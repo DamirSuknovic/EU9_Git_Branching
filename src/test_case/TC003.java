@@ -6,4 +6,6 @@ public class TC003 {
 
     // second line of TC003
 
+    // third line of TC003
+
 }
