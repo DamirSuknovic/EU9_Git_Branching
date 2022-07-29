@@ -1,0 +1,9 @@
+package test_case;
+
+public class TC003 {
+
+    // first line of TC003
+
+    // second line of TC003
+
+}
